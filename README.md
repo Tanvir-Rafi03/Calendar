@@ -2,6 +2,10 @@
 
 A minimal pixel-art desktop calendar widget built with Electron. It sits on your desktop as a small, frameless, transparent window showing the current day and month in a retro pixel aesthetic.
 
+## Preview
+
+![Calendar Preview](assets/calendar.png)
+
 ## Download
 
 [Download for macOS (Apple Silicon)](https://github.com/Tanvir-Rafi03/Calendar/releases/download/v1.0.0/Calendar-1.0.0-arm64.dmg)
