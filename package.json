@@ -1,0 +1,22 @@
+{
+  "name": "Calendar",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "build": {
+    "appId": "com.rafi.calendar",
+    "mac": {
+      "icon": "assets/calendar.icns",
+      "target": "dmg",
+      "category": "public.app-category.utilities"
+    }
+  },
+
+  "devDependencies": {
+    "electron": "^41.0.0",
+    "electron-builder": "^25.0.0"
+  }
+}
